@@ -1,5 +1,4 @@
 # YetGenCorePython
-![Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fm.facebook.com%2FYetkinGencler%2Fphotos%2Fd41d8cd9%2F119827119681134%2F&psig=AOvVaw34pvvL5a13WbZaCH-nM0sc&ust=1716471883282000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJCQ4pmyoYYDFQAAAAAdAAAAABAZ)
 
 YetGen Core Python Eğitim Programı, YetGen tarafından hazırlanan; Python ve Git’e Giriş, Python Temelleri, Karar Yapıları ve Döngüler, Veri Yapıları, Fonksiyonlar, Kütüphaneler ve Hata Yönetimi, Dosya İşlemleri ve Nesne Yönelimli Programlama, Numpy, Pandas ve Matplotlib  gibi konuların uygulamalar, canlı dersler ve lider atölyeleri ile desteklendiği 12 haftalık bir eğitim programıdır.
 
