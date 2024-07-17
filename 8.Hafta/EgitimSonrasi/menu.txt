@@ -1,0 +1,8 @@
+Kola, 22.0
+IceTea, 35.0
+Kahve, 55.0
+Soda, 12.0
+Ayran, 18.0
+Şalgam, 28.0
+Fanta, 29.0
+Americano, 70.0

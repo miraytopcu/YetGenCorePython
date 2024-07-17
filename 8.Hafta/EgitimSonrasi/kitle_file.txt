@@ -1,0 +1,63 @@
+Ad Soyad: Aylin Akarsu
+Kilo: 56.0
+Boy: 1.54
+Vücut Kitle İndeksi: 23.61275088547816
+Kitlekse Göre Bulunulan Kategori: normal kilolu
+
+
+Ad Soyad: Baran Bardak
+Kilo: 78.0
+Boy: 189.0
+Vücut Kitle İndeksi: 21.83589485176787
+Kitlekse Göre Bulunulan Kategori: normal kilolu
+
+
+Ad Soyad: Esra Ay
+Kilo: 92.0
+Boy: 179.0
+Vücut Kitle İndeksi: 28.71321119815237
+Kitlekse Göre Bulunulan Kategori: fazla kilolu
+
+
+Ad Soyad: Ahmet Kuzey
+Kilo: 89000.0
+Boy: 1.74
+Vücut Kitle İndeksi: 29.396221429515126
+Kitlekse Göre Bulunulan Kategori: fazla kilolu
+
+
+Ad Soyad: Ece Aksan
+Kilo: 44.0
+Boy: 152.0
+Vücut Kitle İndeksi: 19.04432132963989
+Kitlekse Göre Bulunulan Kategori: normal kilolu
+
+
+Ad Soyad: Asiye Kaymaz
+Kilo: 100.0
+Boy: 153.0
+Vücut Kitle İndeksi: 42.71861249946602
+Kitlekse Göre Bulunulan Kategori: morbid obez
+
+
+Ad Soyad: Veli Korkmaz
+Kilo: 200.0
+Boy: 196.0
+Vücut Kitle İndeksi: 52.061640982923784
+Kitlekse Göre Bulunulan Kategori: morbid obez
+
+
+Ad Soyad: Osman Kurt
+Kilo: 85.0
+Boy: 169.0
+Vücut Kitle İndeksi: 29.76086271489094
+Kitlekse Göre Bulunulan Kategori: fazla kilolu
+
+
+Ad Soyad: Arda Doruk
+Kilo: 87000.0
+Boy: 1.87
+Vücut Kitle İndeksi: 24.879178701135288
+Kitlekse Göre Bulunulan Kategori: normal kilolu
+
+
