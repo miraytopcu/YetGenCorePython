@@ -1,10 +1,3 @@
 elma , 12.0
-armut , 45.0
-ayva , 74.0
-kiraz , 46.0
-kavun , 72.0
-elma , 12.0
-armut , 45.0
-ayva , 74.0
-ananas , 46.0
-kavun , 72.0
+kavun , 15.0
+kiraz , 17.0
